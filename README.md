@@ -9,4 +9,9 @@ Hands-on help desk and IT support labs by Keenian Knott (Security+, working towa
 | [VPN disconnected and won't reconnect](servicedesk-simulator/vpn-disconnect-ticket/) | ServiceDesk Simulator v2.7 | Remote Desktop, DNS cache flush, VPN client, user communication |
 | [New hire account setup](servicedesk-simulator/new-hire-account-setup/) | ServiceDesk Simulator | Active Directory user creation, security groups, onboarding, ticket ownership |
 
-*More labs coming: Microsoft Entra ID (users, licenses, MFA, password reset), Active Directory, osTicket.*
+## Related labs
+
+- [Entra ID & Active Directory Lab Series](https://github.com/keenianknott91-ops/entra-ad-lab-series): Microsoft Entra ID users and groups, plus identity lifecycle tickets (new hire, name change, termination, transfer). Password reset and MFA labs are next.
+- [osTicket Help Desk Lab](https://github.com/keenianknott91-ops/osticket-helpdesk-lab): osTicket deployed with Docker, with an example ticket worked to closure.
+
+*More simulator tickets will be added to this repo as I complete them.*
