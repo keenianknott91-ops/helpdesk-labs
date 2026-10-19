@@ -9,6 +9,7 @@ Hands-on help desk and IT support labs by Keenian Knott (Security+, working towa
 | [VPN disconnected and won't reconnect](servicedesk-simulator/vpn-disconnect-ticket/) | ServiceDesk Simulator v2.7 | Remote Desktop, DNS cache flush, VPN client, user communication |
 | [New hire account setup](servicedesk-simulator/new-hire-account-setup/) | ServiceDesk Simulator | Active Directory user creation, security groups, onboarding, ticket ownership |
 | [Nobody on the 3rd floor has internet](servicedesk-simulator/floor3-network-outage/) | ServiceDesk Simulator | Network outage scoping, server room devices, switch restart, critical ticket |
+| [Second monitor shows "No Signal"](servicedesk-simulator/second-monitor-no-signal/) | ServiceDesk Simulator | Hardware vs software isolation, display driver update, System Update tool |
 
 ## Related labs
 
