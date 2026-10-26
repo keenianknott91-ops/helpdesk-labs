@@ -11,6 +11,7 @@ Hands-on help desk and IT support labs by Keenian Knott (Security+, working towa
 | [Nobody on the 3rd floor has internet](servicedesk-simulator/floor3-network-outage/) | ServiceDesk Simulator | Network outage scoping, server room devices, switch restart, critical ticket |
 | [Second monitor shows "No Signal"](servicedesk-simulator/second-monitor-no-signal/) | ServiceDesk Simulator | Hardware vs software isolation, display driver update, System Update tool |
 | [Internet completely down (ISP outage)](servicedesk-simulator/isp-outage/) | ServiceDesk Simulator v2.7 | Inside-out network troubleshooting, ISP status, outage communication with an ETA |
+| [New intern needs a computer account](servicedesk-simulator/intern-account-setup/) | ServiceDesk Simulator v2.8 | Approval check, least-privilege intern account (email, chat, wiki only), directory verification |
 
 ## Related labs
 
