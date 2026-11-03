@@ -13,6 +13,7 @@ Hands-on help desk and IT support labs by Keenian Knott (Security+, working towa
 | [Internet completely down (ISP outage)](servicedesk-simulator/isp-outage/) | ServiceDesk Simulator v2.7 | Inside-out network troubleshooting, ISP status, outage communication with an ETA |
 | [New intern needs a computer account](servicedesk-simulator/intern-account-setup/) | ServiceDesk Simulator v2.8 | Approval check, least-privilege intern account (email, chat, wiki only), directory verification |
 | [New hire onboarding: Support team needs new agent](servicedesk-simulator/new-hire-amanda-baker/) | ServiceDesk Simulator | Approval check, AD user creation, Support Team group membership, verification |
+| [Two-factor authentication not working](servicedesk-simulator/mfa-reset-ivana-petrova/) | ServiceDesk Simulator v2.8 | MFA reset, identity verification, CRITICAL lockout, user confirmation |
 
 ## Related labs
 
