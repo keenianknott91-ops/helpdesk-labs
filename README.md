@@ -15,6 +15,7 @@ Hands-on help desk and IT support labs by Keenian Knott (Security+, working towa
 | [New hire onboarding: Support team needs new agent](servicedesk-simulator/new-hire-amanda-baker/) | ServiceDesk Simulator | Approval check, AD user creation, Support Team group membership, verification |
 | [Two-factor authentication not working](servicedesk-simulator/mfa-reset-ivana-petrova/) | ServiceDesk Simulator v2.8 | MFA reset, identity verification, CRITICAL lockout, user confirmation |
 | [VPN disconnected (Lisa Martinez)](servicedesk-simulator/vpn-disconnect-lisa-martinez/) | ServiceDesk Simulator v2.8 | Remote Desktop, VPN client, ipconfig /flushdns, reconnect verification |
+| [Can open the new M: drive but can't save anything to it](servicedesk-simulator/m-drive-access-denied/) | ServiceDesk Simulator | NTFS and share permissions, Effective Access, Windows file server, Remote Desktop |
 
 ## Related labs
 
